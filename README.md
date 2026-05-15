@@ -95,6 +95,4 @@ Victor Gabriel Martins e Souza
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/victorgms](https://www.linkedin.com/in/victorgms)
 * 🌐 Portfólio: [https://verxstech.vercel.app](https://verxstech.vercel.app)
-  
-* 💼 LinkedIn: [https://www.linkedin.com/in/victorgms](https://www.linkedin.com/in/victorgms)
-* 🌐 Portfólio: [https://verxstech.vercel.app](https://verxstech.vercel.app)
+
